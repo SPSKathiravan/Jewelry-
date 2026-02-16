@@ -1,6 +1,5 @@
 import "./login.css";
 import { toast } from "react-toastify";
-import LockOutlinedIcon from "@mui/icons-material/LockOutlined";
 import MailOutlineRoundedIcon from "@mui/icons-material/MailOutlineRounded";
 import PersonIcon from "@mui/icons-material/Person";
 import VisibilityIcon from "@mui/icons-material/Visibility";

@@ -144,4 +144,4 @@ input:valid ~ label{
   
 
 }
-export default Login;
+export default function Login() {
